@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Mada.Core\Mada.Core.csproj" />
-    <ProjectReference Include="..\Mada.Data\Mada.Data.csproj" />
-    <ProjectReference Include="..\Mada.Providers.Sql\Mada.Providers.Sql.csproj" />
   </ItemGroup>
 
 </Project>
